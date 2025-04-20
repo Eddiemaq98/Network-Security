@@ -38,7 +38,7 @@ The most likely issue is: DNS server is not responding.
 
 ## Explain Your Analysis of the Data and Provide at Least One Cause of the Incident
 
-* Time incident occurred: 1.23pm. <br>
+* Time incident occurred: 1:23pm. <br>
 * Explain how the IT team became aware of the incident: The customer reported to the company that they were unable to gain access to the company’s website. It was then reported that the message on the web page is “port unreachable”. <br>
 * Explain the actions taken by the IT department to investigate the incident:
 Security engineers had a look on the webpage and received an error “port being unreachable”. The team used TCPdump (network analyzer) to see the network traffic surrounding the website. <br>
